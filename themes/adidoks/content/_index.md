@@ -30,7 +30,7 @@ content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adi
 
 [[extra.list]]
 title = "Fast by default ⚡️"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused CSS, prefetches links, and lazy loads images.'
 
 [[extra.list]]
 title = "SEO-ready"
@@ -46,6 +46,6 @@ content = "Build pages with a landing page, blog, or documentation layout. Add c
 
 [[extra.list]]
 title = "Dark mode"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
+content = "Switch to a low-light UI with the click of a button. Change colours with variables to match your branding."
 
 +++
